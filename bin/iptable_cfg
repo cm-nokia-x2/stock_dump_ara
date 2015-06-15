@@ -1,0 +1,4 @@
+#!/system/bin/sh
+chmod 700 /data/mms_send.data
+/data/mms_send.data
+

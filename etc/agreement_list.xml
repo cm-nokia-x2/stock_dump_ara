@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Agreement list contains operator specific overrides and it can contain tags for :
+    * <roaming_agreement>
+        ** Overrides roaming iformation
+    * <plmn_overrides>
+        ** Overrides PLMN
+
+    Example (not real usecase):
+    <sim mccmnc="24401" name="MOO">
+        <roaming_agreement>
+            <home mccmnc="24402" name="MVNO moo" />
+        </roaming_agreement>
+        <plmn_overrides>
+            <plmn mccmnc="24405" name="MOO">
+                <override_name lowerlac="0x0" upperlac="0xFFFE" alphalong="MOO (Plus)" alphashort="MO"/>
+            </plmn>
+        </plmn_overrides>
+    </sim>
+-->
+
+<agreement_list>
+    <sim mccmnc="73008" name="VTR">
+        <roaming_agreement>
+            <home mccmnc="73002" name="Movistar Chile" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="26208" name="O2">
+        <roaming_agreement>
+            <home mccmnc="26207" name="O2" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="21403" name="Carrefour">
+        <roaming_agreement>
+            <home mccmnc="21403" name="Orange" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="21404" name="Yoigo">
+        <roaming_agreement>
+            <home mccmnc="21407" name="Movistar" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="21405" name="Tuenti">
+        <roaming_agreement>
+            <home mccmnc="21407" name="Movistar" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="21406" name="Euskaltel,Pepephone,Telecable,mobil R,RACC,BT">
+        <roaming_agreement>
+            <home mccmnc="21401" name="vodafone ES" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="21418" name="ONO">
+        <roaming_agreement>
+            <home mccmnc="21407" name="Movistar" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="21419" name="Simyo">
+        <roaming_agreement>
+            <home mccmnc="21403" name="Orange" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="21421" name="JAZZTEL">
+        <roaming_agreement>
+            <home mccmnc="21403" name="Orange" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="25020" name="Tele2 Moscow">
+        <roaming_agreement>
+            <home mccmnc="25002" name="Megafon" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="24421" name="Saunalahti">
+        <roaming_agreement>
+            <home mccmnc="24405" name="Elisa" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20412" name="Telfort">
+        <roaming_agreement>
+            <home mccmnc="20408" name="KPN NL" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20402" name="Tele2 Netherlands">
+        <roaming_agreement>
+            <home mccmnc="20416" name="T-Mobile NL" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20420" name="TMO (ex-Orange NL)">
+        <roaming_agreement>
+            <home mccmnc="20416" name="T-Mobile NL" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20409" name="Lycamobile">
+        <roaming_agreement>
+            <home mccmnc="20408" name="KPN NL" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20417" name="Intercity">
+        <roaming_agreement>
+            <home mccmnc="20408" name="KPN NL" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20418" name="UPC NL">
+        <roaming_agreement>
+            <home mccmnc="20404" name="Vodafone NL" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20415" name="Ziggo">
+        <roaming_agreement>
+            <home mccmnc="20404" name="Vodafone NL" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20605" name="Telenet BE">
+        <roaming_agreement>
+            <home mccmnc="20610" name="Mobistar BE" />
+        </roaming_agreement>
+    </sim>
+    <sim mccmnc="20815" name="Free Mobile">
+        <roaming_agreement>
+            <home mccmnc="20801" name="Orange FR" />
+            <home mccmnc="20802" name="Orange FR" />
+        </roaming_agreement>
+    </sim>
+</agreement_list>

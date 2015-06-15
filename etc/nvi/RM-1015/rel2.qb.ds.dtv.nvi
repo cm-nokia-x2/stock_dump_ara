@@ -1,0 +1,7 @@
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 453, "SubscriptionId": 0, "NVData": [0]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 4157, "SubscriptionId": 0, "NVData": [0]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 4157, "SubscriptionId": 1, "NVData": [0]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 4158, "SubscriptionId": 0, "NVData": [0]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 4158, "SubscriptionId": 1, "NVData": [0]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 6854, "SubscriptionId": 0, "NVData": [35, 3, 15, 224, 239, 150, 39, 93, 227, 22, 48, 249, 132, 207, 168, 33]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteEFSData", "params": {"MessageVersion": 0, "FilePath":"/nv/item_files/wcdma/rrc/wcdma_rrc_feature", "Data":[5, 0], "ItemType":"Item"}, "id": 0}

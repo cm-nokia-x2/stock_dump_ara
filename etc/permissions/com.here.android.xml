@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+        Copyright (c) 2013 Nokia
+    -->
+
+<permissions>
+    <library name="com.here.android"
+            file="/system/framework/com.here.android.jar" />
+</permissions>
+

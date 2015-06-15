@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 Nokia Corporation and/or its subsidiary(-ies). All rights reserved.
+
+     This material, including documentation and any related computer programs,
+     is protected by copyright controlled by Nokia. All rights are reserved.
+     Copying, including reproducing, storing, adapting or translating,
+     any or all of this material requires the prior written consent of Nokia.
+     This material also contains confidential information, which may not be disclosed
+     to others without the prior written consent of Nokia.
+-->
+
+<permissions>
+    <library name="com.google.android.maps"
+            file="/system/framework/com.android.maps.stub.jar"
+            stub="true" />
+</permissions>

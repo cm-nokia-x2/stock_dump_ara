@@ -1,0 +1,6 @@
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 453, "SubscriptionId": 0, "NVData": [0]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 1030, "SubscriptionId": 0, "NVData": [2]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 1030, "SubscriptionId": 1, "NVData": [2]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 1031, "SubscriptionId": 0, "NVData": [2]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 1031, "SubscriptionId": 1, "NVData": [2]}, "id": 0}
+{"jsonrpc": "2.0", "method": "WriteNVData", "params": {"MessageVersion": 0, "ID": 6854, "SubscriptionId": 0, "NVData": [88, 39, 135, 90, 223, 22, 252, 86, 62, 176, 117, 76, 125, 142, 132, 202]}, "id": 0}
